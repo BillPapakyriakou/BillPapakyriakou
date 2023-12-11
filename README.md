@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillPapakyriakou
-- 👀 I’m interested in broading my horizons in the Programming world 
-- 🌱 I’m currently studying Computer Engineering at University of Ioanina
+- 👀 I’m interested in broading my horizons in the world of programming
+- 🌱 I’m currently studying Computer Engineering in the University of Ioannina
 - 💞️ I’m looking to collaborate on interesting and unique coding projects
 - 📫 How to reach me: 
 -        Email: bill.papakyriakou1999@gmail.com
