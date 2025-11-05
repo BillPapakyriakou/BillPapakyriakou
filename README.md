@@ -2,6 +2,7 @@
 - 👀 I’m interested in broading my horizons in the world of programming
 - 🌱 I’m currently studying Computer Engineering in the University of Ioannina
 - 💞️ I’m looking to collaborate on interesting and unique coding projects
+- 🏳️‍🌈 Part of lgbtq+ community
 - 📫 How to reach me: 
 -        Email: bill.papakyriakou1999@gmail.com
 -        Linkedin: Bill Papakyriakou
